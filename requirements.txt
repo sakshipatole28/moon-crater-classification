@@ -1,0 +1,37 @@
+# =========================
+# Deep Learning (PyTorch)
+# =========================
+torch==2.2.2
+torchvision==0.17.2
+torchaudio==2.2.2
+
+# =========================
+# Data Science Stack
+# =========================
+numpy==1.26.4
+pandas==2.2.1
+matplotlib==3.8.3
+seaborn==0.13.2
+scikit-learn==1.4.2
+
+# =========================
+# Image Processing
+# =========================
+opencv-python==4.9.0.80
+Pillow==10.2.0
+
+# =========================
+# API (FastAPI Deployment)
+# =========================
+fastapi==0.110.0
+uvicorn==0.29.0
+python-multipart==0.0.9
+requests==2.31.0
+
+# =========================
+# Config, Logging, Utilities
+# =========================
+PyYAML==6.0.1
+tqdm==4.66.2
+python-dotenv==1.0.1
+loguru==0.7.2
